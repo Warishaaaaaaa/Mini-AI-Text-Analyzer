@@ -47,3 +47,17 @@ Corrected: Today was a wonderful day. The sun was shining, birds were singing, a
 Processed: Today wonderful day sun shining birds singing everything felt perfectly peaceful
 Sentiment: Positive
 Words    : 11  |  Unique: 11
+
+────────────────────────────────────────────────────────────
+Original : I absolutely loved the movie! The story was brilliant and the ending was truly unforgettable.
+Corrected: I absolutely loved the movie! The story was brilliant and the ending was truly unforgettable.
+Processed: Absolutely loved movie story brilliant ending truly unforgettable
+Sentiment: Positive
+Words    : 8  |  Unique: 8
+
+────────────────────────────────────────────────────────────
+Original : The library opens at nine in the morning and closes at six in the evening
+Corrected: The library opens at nine in the morning and closes at six in the evening
+Processed: Library opens nine morning closes six evening
+Sentiment: Neutral
+Words    : 7  |  Unique: 7

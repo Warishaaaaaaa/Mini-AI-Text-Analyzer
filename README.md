@@ -26,8 +26,6 @@ The app features a modern light-themed desktop interface with:
 - Sidebar with Word Count, Unique Word Count, and Sentiment Meter
 
 ---
----
-
 ## 📸 Screenshots
 
 ### 🖥️ GUI Interface
@@ -40,15 +38,16 @@ The app features a modern light-themed desktop interface with:
 ![Result](screenshots/report.png)
 
 ---
+
 ## 🛠️ Tech Stack
 
-| Tool | Purpose |
-|---|---|
+| Tool          | Purpose |
+|---------------|---|
 | Python 3.14.2 | Core programming language |
-| Tkinter | GUI (desktop window) |
-| NLTK | Tokenization & stopword removal |
-| TextBlob | Spell correction & sentiment analysis |
-| Threading | Keeps GUI responsive during processing |
+| Tkinter       | GUI (desktop window) |
+| NLTK          | Tokenization & stopword removal |
+| TextBlob      | Spell correction & sentiment analysis |
+| Threading     | Keeps GUI responsive during processing |
 
 ---
 
@@ -71,7 +70,7 @@ On first run, the app will automatically download required NLTK data:
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/Warishaaaaaaa/Mini-AI-Text-Analyzer
+git clone https://github.com/Warishaaaaaaa/Mini-AI-Text-Analyzer.git
 ```
 
 2. Navigate into the project folder:
@@ -102,7 +101,9 @@ python main.py
 
 | Type | Example Text |
 |---|---|
+| Positive | "I absolutely loved the movie! The story was brilliant and the ending was truly unforgettable." |
 | Negative | "This product is terrible. It broke after one day and customer support was useless." |
+| Neutral | "The library opens at nine in the morning and closes at six in the evening." |
 | Spelling errors | "She wass verry hapy abut her excelent performanse in the competision." |
 | Mixed | "The weather was cold but the children played joyfully outside, laughing without a care." |
 
@@ -146,8 +147,13 @@ This is a personal learning project but if you have suggestions or spot a bug, f
 
 ---
 
+## 📜 License
+
+This project is open source and free to use for educational purposes.
+
+---
 
 ## 👤 Author
 
-Warisha Amjad
+Warisha Amjad 
 
