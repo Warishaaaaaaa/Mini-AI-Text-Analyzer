@@ -1,0 +1,49 @@
+
+────────────────────────────────────────────────────────────
+Original : The students were very excited about their new project. They worked hard and the results were amazing! Everyone felt happy and proud of their achievements.
+Corrected: The students were very excited about their new project. They worked hard and the results were amazing! Everyone felt happy and proud of their achievements.
+Processed: Students excited new project worked hard results amazing everyone felt happy proud achievements
+Sentiment: Positive
+Words    : 13  |  Unique: 13
+
+────────────────────────────────────────────────────────────
+Original : This product is absolutely terrible. It broke after one day and customer support was completely useless and rude.
+Corrected: His product is absolutely terrible. It broke after one day and customer support was completely useless and rude.
+Processed: Product absolutely terrible broke one day customer support completely useless rude
+Sentiment: Negative
+Words    : 11  |  Unique: 11
+
+────────────────────────────────────────────────────────────
+Original : Water boils at one hundred degrees Celsius at standard atmospheric pressure.
+Corrected: Later boils at one hundred degrees Celsus at standard atmosphere pressure.
+Processed: Later boils one hundred degrees celsus standard atmosphere pressure
+Sentiment: Neutral
+Words    : 9  |  Unique: 9
+
+────────────────────────────────────────────────────────────
+Original : Water boils at one hundred degrees Celsius at standard atmospheric pressure.
+Corrected: Later boils at one hundred degrees Celsus at standard atmosphere pressure.
+Processed: Later boils one hundred degrees celsus standard atmosphere pressure
+Sentiment: Neutral
+Words    : 9  |  Unique: 9
+
+────────────────────────────────────────────────────────────
+Original : The weather was cold and gloomy but the children played joyfully outside, laughing and running without a care in the world.
+Corrected: The weather was cold and gloomy but the children played joyfully outside, laughing and running without a care in the world.
+Processed: Weather cold gloomy children played joyfully outside laughing running without care world
+Sentiment: Negative
+Words    : 12  |  Unique: 12
+
+────────────────────────────────────────────────────────────
+Original : She wass verry hapy abut her excelent performanse in the competision.
+Corrected: The was very happy but her excellent performance in the competition.
+Processed: Happy excellent performance competition
+Sentiment: Neutral
+Words    : 4  |  Unique: 4
+
+────────────────────────────────────────────────────────────
+Original : Today was a wonderful day. The sun was shining, birds were singing, and everything felt perfectly peaceful.
+Corrected: Today was a wonderful day. The sun was shining, birds were singing, and everything felt perfectly peaceful.
+Processed: Today wonderful day sun shining birds singing everything felt perfectly peaceful
+Sentiment: Positive
+Words    : 11  |  Unique: 11
