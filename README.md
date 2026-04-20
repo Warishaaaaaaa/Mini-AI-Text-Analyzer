@@ -29,13 +29,13 @@ The app features a modern light-themed desktop interface with:
 ## 📸 Screenshots
 
 ### 🖥️ GUI Interface
-![GUI](screenshots/gui.png)
+![GUI](Screenshots/gui.png)
 
 ### 📊 Analysis Output
-![Output](screenshots/output.png)
+![Output](Screenshots/output.png)
 
 ### 📈 Result View
-![Result](screenshots/report.png)
+![Result](Screenshots/report.png)
 
 ---
 
