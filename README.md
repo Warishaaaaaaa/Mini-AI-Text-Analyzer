@@ -115,7 +115,7 @@ Mini-AI-Text-Analyzer/
 ├── main.py
 ├── report.txt
 ├── README.md
-└── screenshots/
+└── Screenshots/
 
 ---
 
