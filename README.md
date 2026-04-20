@@ -76,7 +76,7 @@ git clone https://github.com/Warishaaaaaaa/Mini-AI-Text-Analyzer
 
 2. Navigate into the project folder:
 ```bash
-cd https://github.com/Warishaaaaaaa/Mini-AI-Text-Analyzer
+cd Mini-AI-Text-Analyzer
 ```
 
 3. (Optional but recommended) Create a virtual environment:
@@ -110,14 +110,12 @@ python main.py
 
 ## 📁 Project Structure
 
-```
-https://github.com/Warishaaaaaaa/Mini-AI-Text-Analyzer
+Mini-AI-Text-Analyzer/
 │
-├── main.py          # Main application file (GUI + NLP logic)
-├── report.txt       # Auto-generated analysis reports (created on first run)
-├── README.md        # This file
-└── .venv/           # Virtual environment (not pushed to GitHub)
-```
+├── main.py
+├── report.txt
+├── README.md
+└── screenshots/
 
 ---
 
