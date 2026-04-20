@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5215354a-f6b4-4639-91a4-82eedf9145d8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Screenshots/gui.png.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Screenshots/output.png.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Screenshots/report.png.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots/report.png" beforeDir="false" afterPath="$PROJECT_DIR$/Screenshots/report.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
